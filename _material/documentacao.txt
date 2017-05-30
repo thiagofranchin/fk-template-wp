@@ -1,0 +1,9 @@
+http://localhost/wp-template/wp-admin
+User: thiago
+Password: 1234567
+
+http://localhost/phpmyadmin/
+User: root
+Password: null
+db: db_wptemplate
+Prefixo Table: fktheme
