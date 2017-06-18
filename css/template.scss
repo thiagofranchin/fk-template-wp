@@ -1,0 +1,11 @@
+// sass --watch css/template.scss:css/template.min.css --style compressed
+
+//variaveis antes
+@import 'partials/menu-principal';
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+body {
+    background: #ccc;
+}
+
+.wp-post-image { float: left; margin: 0 15px 10px 0; }

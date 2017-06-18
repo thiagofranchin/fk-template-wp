@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thiagofranchin/fk-template-wp/issues"
   },
-  "homepage": "https://github.com/thiagofranchin/fk-template-wp#readme"
+  "homepage": "https://github.com/thiagofranchin/fk-template-wp#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
 }
