@@ -1,5 +1,22 @@
+.area-menu {
+    background-color: $gray-lighter;
+    height: 70px;
+    line-height: 70px;
+}
+
 .menu-principal, .menu-rodape {
     ul li {
         display: inline-block;
+        font-size: 1.6rem;
+        font-weight: 700;
+        padding: 0px 20px;
+        text-transform: uppercase;        
+        a {
+            color: $link-color;
+            text-decoration: none;
+            &:hover {
+                color: darken($link-color, 10%);
+            }
+        }
     }
 }

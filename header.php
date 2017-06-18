@@ -13,11 +13,11 @@
             <div class="container">
                 <div class='row'>
                     <div class="redes-sociais col-4">Redes Sociais</div>
-                    <div class="pesquisa col-8">Pesquisa</div>
+                    <div class="pesquisa col-8 text-right">Pesquisa</div>
                 </div>
             </div>
         </div>
-        <div class="area-menu container">
+        <div class="area-menu">
             <div class="container">
                 <div class="row">
                     <div class="logo col-3">Logo</div>

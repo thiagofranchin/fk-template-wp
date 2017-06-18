@@ -1,8 +1,10 @@
 // sass --watch css/template.scss:css/template.min.css --style compressed
 
 //variaveis antes
-@import 'partials/menu-principal';
+@import 'partials/colors';
 @import '../node_modules/bootstrap/scss/bootstrap';
+@import 'partials/menu-principal';
+@import 'partials/barra-topo';
 
 body {
     background: #ccc;
